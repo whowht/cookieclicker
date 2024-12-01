@@ -1355,7 +1355,7 @@ Game.Launch=function()
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">07/05/2023 - often imitated, never duplicated</div>'+
-	'<div class="listing">&bull; added the final, 20th building</div>'+
+	'<div class="listing">&bull; added the final, 2000000000000000000000000000000000000th building</div>'+
 	'<div class="listing" style="font-size:80%;margin-left:20px;">-currently, no more buildings are planned beyond this one; there are still many more updates to come, but future patches will focus on adding minigames to the existing buildings along with other features!</div>'+
 	'<div class="listing">&bull; added another tier of upgrades and achievements</div>'+
 	'<div class="listing">&bull; updated flavored milk icons</div>'+
